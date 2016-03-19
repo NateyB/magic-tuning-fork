@@ -1,0 +1,5 @@
+(setf *domains* '(
+  (color      purple yellow)
+  (size  small large)
+  (stretchy     stretch dip)
+  (age    adult child)))
